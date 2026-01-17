@@ -6,4 +6,4 @@ This is a **console-based Java program** that demonstrates core **Object-Oriente
 
 Below is a screenshot showing the output of the program:
 
-![Program Output]("C:\Users\anush\Desktop\My Projects\Java Projects\School Management System\school-management-system\Screenshot 2026-01-17 234118.png")
+
