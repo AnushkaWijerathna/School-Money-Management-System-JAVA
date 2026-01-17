@@ -1,18 +1,9 @@
-## Getting Started
+# School Management System (Java - OOP)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a **console-based Java program** that demonstrates core **Object-Oriented Programming (OOP)** concepts such as classes, objects, static methods, and encapsulation. The program models a school money management system, tracking student fees, teacher salaries, and the school's finances.
 
-## Folder Structure
+## Program Output Screenshot
 
-The workspace contains two folders by default, where:
+Below is a screenshot showing the output of the program:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Program Output]("C:\Users\anush\Desktop\My Projects\Java Projects\School Management System\school-management-system\Screenshot 2026-01-17 234118.png")
